@@ -1,0 +1,6 @@
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\bin\Debug\WordAnalyzer.exe.config
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\bin\Debug\WordAnalyzer.exe
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\bin\Debug\WordAnalyzer.pdb
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\obj\Debug\WordAnalyzer.csprojResolveAssemblyReference.cache
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\obj\Debug\WordAnalyzer.exe
+D:\Vikram.Office\PDS\GitHubLocal\WordAnalyzer\obj\Debug\WordAnalyzer.pdb
